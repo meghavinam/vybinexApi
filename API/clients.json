@@ -1,0 +1,94 @@
+{
+    "clients": [
+        {
+            "id": "abeers",
+            "label": "Abeer's Signature",
+            "order": 3,
+            "image_data": {"url":"http://meghani.local/images/clients/abeers.png","width":1010,"height":512}
+        },
+        {
+            "id": "arabian-medical-center",
+            "label": "Arabian Medical Center",
+            "order": 5,
+            "image_data": {"url":"http://meghani.local/images/clients/arabian-medical-center.png","width":3105,"height":512}
+        },
+        {
+            "id": "bbl",
+            "label": "Best Beauty Life",
+            "order": 6,
+            "image_data": {"url":"http://meghani.local/images/clients/bbl.png","width":1127,"height":512}
+        },
+        {
+            "id": "cosmos",
+            "label": "COSMOS Sports",
+            "order": 2,
+            "image_data": {"url":"http://meghani.local/images/clients/cosmos.png","width":2905,"height":512}
+        },
+        {
+            "id": "doc-barnet",
+            "label": "DOC Barnet",
+            "order": 8,
+            "image_data": {"url":"http://meghani.local/images/clients/doc-barnet.png","width":975,"height":512}
+        },
+        {
+            "id": "fidato",
+            "label": "FIDATO",
+            "order": 9,
+            "image_data": {"url":"http://meghani.local/images/clients/fidato.png","width":1678,"height":512}
+        },
+        {
+            "id": "flycupz",
+            "label": "FLYCUPZ",
+            "order": 13,
+            "image_data": {"url":"http://meghani.local/images/clients/flycupz.png","width":100,"height":200}
+        },
+        {
+            "id": "global-axis",
+            "label": "The Global Axis",
+            "order": 12,
+            "image_data": {"url":"http://meghani.local/images/clients/global-axis.png","width":678,"height":512}
+        },
+        {
+            "id": "hubba",
+            "label": "HUBBA",
+            "order": 10,
+            "image_data": {"url":"http://meghani.local/images/clients/hubba.png","width":1311,"height":512}
+        },
+        {
+            "id": "lulu",
+            "label": "Lulu Exchange",
+            "order": 0,
+            "image_data": {"url":"http://meghani.local/images/clients/lulu.png","width":1934,"height":512}
+        },
+        {
+            "id": "mender",
+            "label": "MENDER Sea Shipping",
+            "order": 7,
+            "image_data": {"url":"http://meghani.local/images/clients/mender.png","width":100,"height":200}
+        },
+        {
+            "id": "powerboom",
+            "label": "Powerboom",
+            "order": 1,
+            "image_data": {"url":"http://meghani.local/images/clients/powerboom.png","width":1112,"height":512}
+        },
+        {
+            "id": "sal",
+            "label": "SAL Events",
+            "order": 11,
+            "image_data": {"url":"http://meghani.local/images/clients/sal.png","width":929,"height":512}
+        },
+        {
+            "id": "walz",
+            "label": "The Walz Travels",
+            "order": 14,
+            "image_data": {"url":"http://meghani.local/images/clients/walz.png","width":458,"height":512}
+        },
+        {
+            "id": "masdar",
+            "label": "Masdar City",
+            "order": 4,
+            "image_data": {"url":"http://meghani.local/images/clients/masdar.png","width":1586,"height":512}
+        }
+    ]
+}
